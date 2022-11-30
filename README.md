@@ -1,6 +1,5 @@
 # keyborb
-china wkl 70% layout
+40% plateless keyboard that is based off the ever popular alice layout
 
-making this because I feel like both CWKL and 70% keyboards are extremely underappreciated
-![CWKL_70](https://user-images.githubusercontent.com/104829542/188812028-4abc7aca-5c19-4250-9d97-e49357c7aea7.png)
-this how it looks in Keyboard Layout Editor (KLE)
+keyborb look like this, i love alice style boards and always wanted to try 40's and plateless boards, so why not make my own so that i can keep the arrows :3
+![image](https://user-images.githubusercontent.com/104829542/204757054-1b0e3e80-fe57-42b4-97a0-ccd3170661ea.png)
